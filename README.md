@@ -1,6 +1,9 @@
 ## SegmentedAndPagerNodeExample
 It's an example of how to create segmented and pager use by [Texture](https://texturegroup.org/).
 
+## Overview
+[Demo powered by Appetize.io](https://appetize.io/app/3cqr8bd50nvurq350rnnprk4p0?device=iphone8&scale=100&orientation=portrait&osVersion=11.3)
+
 ## Requirements
 * iOS 9.0+
 * Xcode 9.3+
