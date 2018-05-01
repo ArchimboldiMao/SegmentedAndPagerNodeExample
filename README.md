@@ -9,10 +9,9 @@ It's an example of how to create segmented and pager use by [Texture](https://te
 SegmentedAndPagerNodeExample use [CocoaPods](https://cocoapods.org/) manage the dependency. Before run the example, you should run the following command first:
 
 ```bash
+$ pod update
 $ pod install
 ```
-;./
-"}\"
 
 ## Author
 
