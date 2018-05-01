@@ -18,4 +18,4 @@ $ pod install
 Written by Archimboldi Mao. You can [find me on Twitter](https://twitter.com/ArchimboldiMao) if you have any suggestions, requests, or just want to talk!
 
 ## License
-All code contributed to PromptMessage is released under an Apache 2.0 license.
+All code contributed to SegmentedAndPagerNodeExample is released under an Apache 2.0 license.
